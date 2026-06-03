@@ -21,6 +21,14 @@
 
 ---
 
+### 🛠️ Featured Project
+
+**[subreaper](https://github.com/rendidwisa/subreaper)**  
+DNS vulnerability scanner & potential subdomain takeover detector.  
+Built to automate reconnaissance and uncover misconfigured DNS records before they can be exploited.
+
+---
+
 ### 💻 Tech Stack
 
 **Security & Infrastructure**
@@ -52,7 +60,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rendidwisa&theme=dark&hide_border=true&background=0a0a0f&ring=2dd4bf&fire=f87171&currStreakLabel=2dd4bf" alt="GitHub Streak" />
 </p>
-> 
 
 ---
 
